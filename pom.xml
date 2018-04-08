@@ -13,11 +13,9 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
-
-  <parent>
+   <parent>
   	<groupId>com.cc.jt-parent</groupId>
   	<artifactId>jt-parent</artifactId>
   	<version>0.0.1-SNAPSHOT</version>
   </parent>
-  
 </project>
